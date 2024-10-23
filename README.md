@@ -1,5 +1,3 @@
-<!-- ![DeepLearn Banner](DeepLearn2024.png) -->
-
 # FISI4997: Basics of ML Final Project
 
 This notebook holds the material for two projects. You may choose the one you wish to work on. The two projects are:
@@ -7,14 +5,14 @@ This notebook holds the material for two projects. You may choose the one you wi
 * Higgs Classification Project
 * Electron/Photon Classification Project
 
-As their title suggests, these are both classification problems. You job will be to build a machine learning model able to distinguish between background and Higgs events in the **Higgs Boson Classification Project**, or between photons and electrons in the **Electron/Photon Classification Project**.
+You job will be to build a machine learning model able to distinguish between background and Higgs events in the **Higgs Classification Project**, or between photons and electrons in the **Electron/Photon Classification Project**.
 
 ## Running Notebooks
 
 To begin running the notebooks, click on one of the following buttons to open the notebook of your choice in Google Colab. Afterwards, you should save the notebook to your Google Drive in order to save your progress.
 
-* Higgs Boson Classification Challenge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roy-cruz/FISI4997-MLBasicsProj/blob/main/HiggsClassification/higgs_classification.ipynb)
-* Particle Images Challenge: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roy-cruz/FISI4997-MLBasicsProj/blob/main/EGammaClassification/egamma_classification.ipynb)
+* Higgs Classification: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roy-cruz/FISI4997-MLBasicsProj/blob/main/HiggsClassification/higgs_classification.ipynb)
+* Electron/Photon Classification: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roy-cruz/FISI4997-MLBasicsProj/blob/main/EGammaClassification/egamma_classification.ipynb)
 
 ## Submission 
 
